@@ -3,7 +3,10 @@
     <sitemap>
         <loc>https://skyzh.github.io/mini-lsm/sitemap.xml</loc>
     </sitemap>
-        <sitemap>
+    <sitemap>
         <loc>https://skyzh.github.io/write-you-a-vector-db/sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://skyzh.github.io/tiny-llm/sitemap.xml</loc>
     </sitemap>
 </sitemapindex>
